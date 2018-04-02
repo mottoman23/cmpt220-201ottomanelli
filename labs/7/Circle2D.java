@@ -1,4 +1,4 @@
-package lab7;
+//package lab7;
 
 public class Circle2D {
 	private double x; 
@@ -44,7 +44,7 @@ public class Circle2D {
 	public boolean contains(Circle2D circle) {
 		return Math.sqrt(Math.pow(circle.getX() - x, 2) + 
 				 Math.pow(circle.getY() - y, 2)) 
-				 <= Math.abs(radius - circle.getRadius());
+				 <= radius - circle.getRadius(); // JA
 	}
 
 	public boolean overlaps(Circle2D circle) {
