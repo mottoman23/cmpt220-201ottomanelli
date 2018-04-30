@@ -1,10 +1,9 @@
-package lab9;
-
+//package lab9;
+// JA: main method?
 import java.util.Scanner;
 
 public class Problem12_5 {
-	Scanner input = new 
-(System.in);
+	Scanner input = new Scanner(System.in);
 
 	// Prompt the user to enter a color
 	System.out.print("Enter a color: ");

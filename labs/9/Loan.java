@@ -1,4 +1,4 @@
-package lab9;
+//package lab9;
 
 public class Loan {
 	private double annualInterestRate;

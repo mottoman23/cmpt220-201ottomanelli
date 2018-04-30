@@ -1,4 +1,4 @@
-package lab10;
+//package lab10;
 
 public interface Colorable {
 	String howToColor();

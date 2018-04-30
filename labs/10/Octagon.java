@@ -1,4 +1,4 @@
-package lab10;
+//package lab10;
 
 public class Octagon extends GeometricObject 
 				implements Cloneable, Comparable<Octagon> {

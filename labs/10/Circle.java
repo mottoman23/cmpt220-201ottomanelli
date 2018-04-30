@@ -1,4 +1,4 @@
-package lab10;
+//package lab10;
 
 public class Circle
 extends GeometricObject implements Comparable<Circle> {

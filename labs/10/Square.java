@@ -1,4 +1,4 @@
-package lab10;
+//package lab10;
 
 public class Square extends GeometricObject implements Colorable {
 	private double side;

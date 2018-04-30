@@ -1,4 +1,4 @@
-package lab10;
+//package lab10;
 
 public abstract class GeometricObject {
 	private String color = "while";

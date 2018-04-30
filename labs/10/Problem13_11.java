@@ -1,4 +1,4 @@
-package lab10;
+//package lab10;
 
 public class Problem13_11 {
 	public static void main(String[] args) throws CloneNotSupportedException {
