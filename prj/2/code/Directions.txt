@@ -1,0 +1,3 @@
+sqldump is in data file.
+Use the mySQL.txt file to create the databases in mySQL.
+The password for the root directory is 'Mottoman23'.

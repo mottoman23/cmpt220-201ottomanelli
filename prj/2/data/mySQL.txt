@@ -1,0 +1,17 @@
+CREATE TABLE Persons (
+id INT(5) AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(50) NOT NULL,
+gender CHAR(1),
+salary DECIMAL(10, 2),
+hasHealthInsurance CHAR(1),
+age INT(3),
+homeCity VARCHAR(50),
+homeState VARCHAR(50))
+
+CREATE TABLE Companies (
+id INT(5) AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(50) NOT NULL,
+budget DECIMAL(10, 2),
+officeLoc VARCHAR(50),
+clientNum INT,
+employeeNum INT)
